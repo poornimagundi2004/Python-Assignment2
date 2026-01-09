@@ -1,0 +1,5 @@
+name=input("pelase enter your name")
+print(name)
+number=input("enter your favorite number")
+print(number)
+print("Hello your name is",name,"and your favorite number is",number)
